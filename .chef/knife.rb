@@ -1,0 +1,1 @@
+knife[:foo] = 'bar'
